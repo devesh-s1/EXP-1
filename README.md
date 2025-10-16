@@ -1,7 +1,7 @@
 # Experiment 1: Decentralized Certificate Verification
-### Name: SWETHA P
-### Reg no: 212222100053
-### Department: CSE(CYBER SECURITY)
+### Name: DEVESH SHARMA
+### Reg no: 212222110008
+### Department: CSE IOT
 ## Aim:
 To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery
 and ensuring authenticity.
